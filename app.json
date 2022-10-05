@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "desafio11",
-    "slug": "desafio11",
+    "name": "rappiservice",
+    "slug": "rappiservice",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
